@@ -132,9 +132,9 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 <div align="center">
 
-![Mosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyadmosin&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sayyadmosin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadmosin&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayyadmosin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
@@ -144,7 +144,7 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayyadmosin&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=sayyadmosin&theme=tokyonight&hide_border=true"/>
 
 </div>
 ---
