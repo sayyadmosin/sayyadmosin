@@ -132,9 +132,9 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sayyadmosin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sayyadmosin&theme=tokyonight" />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayyadmosin&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sayyadmosin&theme=tokyonight" />
 
 </div>
 
