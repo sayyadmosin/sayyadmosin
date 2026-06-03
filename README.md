@@ -149,15 +149,6 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 </div>
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayyadmosin&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-
 
 ## 🤝 Connect With Me
 
