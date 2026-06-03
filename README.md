@@ -138,6 +138,13 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 
 </div>
 
+## 📈 GitHub Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sayyadmosin&theme=tokyonight" />
+
+</div>
 ---
 
 ## 🔥 GitHub Streaks
