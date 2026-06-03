@@ -130,19 +130,23 @@ I specialize in developing scalable backend systems, managing cloud infrastructu
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sayyadmosin&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sayyadmosin&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+![Mosin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyadmosin&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadmosin&layout=compact&theme=tokyonight)
+
+</div>
 
 ---
 
-## 🔥 GitHub Streaks & Activity
+## 🔥 GitHub Streaks
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sayyadmosin&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sayyadmosin&theme=tokyonight)
+
+</div>
 ---
 
 ## 🤝 Connect With Me
